@@ -6,27 +6,27 @@ Diagnostic analysis is a method used to understand the reasons behind certain ou
 ## Application in Logistics, Transportation, and Delivery Sectors
 ### 1. Logistics
 
-Problem: Delays in deliveries.
+- Problem: Delays in deliveries.
 
-Analysis: By examining the delivery times, distances, types of vehicles used, and performance of different drivers, logistics companies can identify what factors are causing delays.
+- Analysis: By examining the delivery times, distances, types of vehicles used, and performance of different drivers, logistics companies can identify what factors are causing delays.
 
-Example: If the data shows that deliveries using vans are consistently slower than those using trucks, the company might investigate why this is happening. Perhaps vans are taking longer routes or facing more traffic.
+- Example: If the data shows that deliveries using vans are consistently slower than those using trucks, the company might investigate why this is happening. Perhaps vans are taking longer routes or facing more traffic.
 
 ### 2. Transportation
 
-Problem: High fuel consumption.
+- Problem: High fuel consumption.
 
-Analysis: Diagnostic analysis can look at various factors such as routes taken, driving speeds, and vehicle maintenance records to determine why certain vehicles consume more fuel.
+- Analysis: Diagnostic analysis can look at various factors such as routes taken, driving speeds, and vehicle maintenance records to determine why certain vehicles consume more fuel.
 
-Example: The analysis might reveal that certain drivers are not following the optimal routes or that specific vehicles are overdue for maintenance, leading to higher fuel usage.
+- Example: The analysis might reveal that certain drivers are not following the optimal routes or that specific vehicles are overdue for maintenance, leading to higher fuel usage.
 
 ### 3. Delivery Services
 
-Problem: Customer complaints about late deliveries.
+- Problem: Customer complaints about late deliveries.
 
-Analysis: By analyzing delivery times, customer locations, and delivery schedules, companies can pinpoint the cause of delays.
+- Analysis: By analyzing delivery times, customer locations, and delivery schedules, companies can pinpoint the cause of delays.
 
-Example: The data might show that deliveries to a particular area are consistently late. The company can then look into traffic patterns, the efficiency of the delivery routes, or the workload of drivers servicing that area.
+- Example: The data might show that deliveries to a particular area are consistently late. The company can then look into traffic patterns, the efficiency of the delivery routes, or the workload of drivers servicing that area.
 
 ## Simplified Example
 Imagine you are running a small delivery service. You notice that some deliveries are taking much longer than expected, and customers are starting to complain. Here’s how you can use diagnostic analysis to find out why:
