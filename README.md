@@ -63,18 +63,18 @@ Provide training or support to drivers who are slower.
 
 Visualizations like graphs and charts make it easier to see patterns and outliers in the data. Here are a few examples:
 
-Histogram: Shows the distribution of delivery times. You can quickly see if most deliveries are within the expected time range or if there are many delays.
+- Histogram: Shows the distribution of delivery times. You can quickly see if most deliveries are within the expected time range or if there are many delays.
 
 
-Boxplot: Compares delivery times by vehicle type. This can show if one type of vehicle is consistently slower than the other.
+- Boxplot: Compares delivery times by vehicle type. This can show if one type of vehicle is consistently slower than the other.
 
 
-Scatter Plot: Shows the relationship between delivery time and distance. This helps you see if longer distances are causing delays.
+- Scatter Plot: Shows the relationship between delivery time and distance. This helps you see if longer distances are causing delays.
 
 
-Boxplot by Driver: Compares delivery times for different drivers. This can help identify if some drivers need additional training.
+- Boxplot by Driver: Compares delivery times for different drivers. This can help identify if some drivers need additional training.
 
 
 # Summary
 
-Diagnostic analysis helps you understand why things are happening in your business. By identifying patterns and causes of problems, you can take targeted actions to improve efficiency and customer satisfaction in logistics, transportation, and delivery sectors.
+Diagnostic analysis helps you understand why things are happening in your business. By identifying patterns and causes of problems, you can take targeted actions to improve efficiency and customer satisfaction as well as  identify potential issues affecting the efficiency of the logistics operations..
