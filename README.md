@@ -3,7 +3,7 @@
 # What is Diagnostic Analysis?
 Diagnostic analysis is a method used to understand the reasons behind certain outcomes or trends. It helps identify patterns, causes, and correlations in data. Think of it as a way to diagnose why things happen, similar to how a doctor diagnoses a patient's symptoms to find out what's causing an illness.
 
-## Application in Logistics, Transportation, and Delivery Sectors
+## Application in  Sectors: Logistics, Transportation, etc...
 ### 1. Logistics
 
 - Problem: Delays in deliveries.
